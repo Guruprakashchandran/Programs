@@ -1,0 +1,16 @@
+/*
+encoding :-
+	
+*	This data change to particular format bytescode.
+*	Ex: UTF-8,ASCII and etc
+
+encryption:-
+	
+*	This data change one type to another type.
+*	That use to data send and receive and store.
+
+Hashing:-
+
+*	The data is Secret key to change unique identifier. 
+*	the method uses to avoid collision.
+*/
